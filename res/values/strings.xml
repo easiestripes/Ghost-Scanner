@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ghost Hunter Temp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_menu">Play</string>
+    <string name="button_options">Options</string>
+    <string name="title_activity_play_game">Play Game</string>
+    <string name="playGame">Playing Game</string>
+    <string name="title_activity_action_m">Action</string>
+    <string name="action_menu">Action Menu</string>
+    <string name="title_activity_options_menu">Options Menu</string>
+    <string name="title_activity_game_over">GameOver</string>
+    <string name="title_activity_pause_game">Pause Game</string>
+    <string name="title_activity_scanner">Scanner</string>
+    <string name="title_activity_button_test">ButtonTest</string>
+    <string name="title_activity_statistics_screen">Statistics Screen</string>
+    <string name="temp">Temp</string>
+    <string name="title_activity_item_store">Item Store</string>
+    <string name="title_activity_splash_screen">Ghost Hunter</string>
+
+</resources>
